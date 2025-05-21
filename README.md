@@ -2,7 +2,7 @@
 
 ✨ **Helping Businesses Thrive Online | Bridging Marketing Acumen with Technical Skills** ✨
 
-Hello! I'm Brandy, an experienced E-commerce Manager and Marketing Strategist with a strong background in driving online growth, managing ad campaigns, and optimizing customer experiences. I'm currently expanding my technical skill set through intensive web development and data structures training to offer even more comprehensive solutions. This portfolio showcases my strategic projects, technical abilities, and professional journey.
+Hello! I'm Brandy, an experienced E-commerce Manager and Marketing Strategist with a strong background in driving online growth, managing ad campaigns, and optimizing customer experiences. I'm actively expanding my technical skill set through web development and data structures training to offer even more comprehensive solutions. This portfolio showcases my strategic projects, technical abilities, and professional journey.
 
 ---
 
@@ -13,7 +13,7 @@ Hello! I'm Brandy, an experienced E-commerce Manager and Marketing Strategist wi
 * **Growth Strategy:** Market Research, Competitive Analysis, Sales Funnel Optimization, A/B Testing, Customer Retention
 * **Financial Acumen:** Budgeting, P&L Analysis, Sales Forecasting, ROI Tracking (experience with Google Sheets for data analysis)
 * **Client & Project Management:** Upwork, Asana, Trello, Slack, Client Communication, Vendor Management
-* **Web Technologies (Learning & Applying):** HTML, CSS, JavaScript, Responsive Web Design
+* **Web Technologies (Developing & Applying):** HTML, CSS, JavaScript (currently studying), Responsive Web Design principles.
 * **Creative & Technical:** Adobe Creative Suite (Photoshop, Illustrator, Premiere Pro), Video Editing, Basic Graphic Design
 
 ---
@@ -26,7 +26,26 @@ Hello! I'm Brandy, an experienced E-commerce Manager and Marketing Strategist wi
 * ➡️ **View Full Ad Strategy Portfolio:** [Online Growth & Ad Strategy Portfolio](https://brandys-algorythem.github.io/Online-Growth-Ad-Strategy-BrandyCornett-Portfolio/)
     * _(The repository for this portfolio is: `https://github.com/brandys-algorythem/Online-Growth-Ad-Strategy-BrandyCornett-Portfolio`)_
 
-### 2. Ariya - E-commerce Platform (Conceptual Project - *Details Coming Soon*)
+### 2. Foundational Web Development Projects
+* **Description:** A collection of projects demonstrating core skills in HTML5 and CSS3, focusing on responsive web design principles and building functional, user-friendly web pages.
+    * **Survey Form**
+        * _A responsive form to collect user data, built with HTML and CSS._
+        * Code: [View Code](https://github.com/brandys-algorythem/fcc-responsive-survey-form) | Live Demo: [See it Live](https://brandys-algorythem.github.io/fcc-responsive-survey-form/)
+    * **Tribute Page**
+        * _A simple, responsive webpage dedicated to a subject of choice, showcasing semantic HTML and styling._
+        * Code: [View Code](https://github.com/brandys-algorythem/fcc-responsive-tribute-page) | Live Demo: [See it Live](https://brandys-algorythem.github.io/fcc-responsive-tribute-page/)
+    * **Technical Documentation Page**
+        * _A responsive page designed to provide technical documentation, featuring a navigation menu for easy access to sections._
+        * Code: [View Code](https://github.com/brandys-algorythem/fcc-responsive-tech-docs) | Live Demo: [See it Live](https://brandys-algorythem.github.io/fcc-responsive-tech-docs/)
+    * **Product Landing Page**
+        * _A responsive landing page to showcase a product, including features, media, and pricing elements._
+        * Code: [View Code](https://github.com/brandys-algorythem/fcc-responsive-landing-page) | Live Demo: [See it Live](https://brandys-algorythem.github.io/fcc-responsive-landing-page/)
+        * *Note: Please verify the repository and live link for the Product Landing Page.*
+    * **Personal Portfolio Webpage (Early Version)**
+        * _An early version of a responsive portfolio page developed to showcase initial projects._
+        * Code: [View Code](https://github.com/brandys-algorythem/fcc-responsive-portfolio) | Live Demo: [See it Live](https://brandys-algorythem.github.io/fcc-responsive-portfolio/)
+
+### 3. Ariya - E-commerce Platform (Conceptual Project - *Details Coming Soon*)
 * **Description:** A conceptual project exploring the development of a niche e-commerce platform, focusing on user experience, vendor integration, and marketing strategy.
 * **Technologies/Skills (Planned):** [e.g., JavaScript, React, Node.js, UI/UX Design Principles]
 * ➡️ *Repository & Live Demo links will be added here upon development.*
@@ -44,35 +63,14 @@ Hello! I'm Brandy, an experienced E-commerce Manager and Marketing Strategist wi
 * **Previous Roles | (Dates)**
     * [Briefly mention other relevant roles and key responsibilities/achievements]
 
-* ➡️ *(For more details, please [View My Full Resume (PDF)](./BrandyCornett_Resume.pdf) - *Ensure this PDF is in your repository and the link is correct*)*
+* ➡️ *(For more details, please [View My Full Resume (PDF)](./BrandyCornett_Resume.pdf) - *Ensure this PDF is in your main portfolio repository (`brandys-algorythem.github.io`) and the link is correct*)*
 
 ---
 
-## 📜 Education & Certifications
+## 🎓 Education & Ongoing Learning
 
-* **Responsive Web Design Certification – freeCodeCamp** (Completed May 17, 2025)
-    * [View Certification](https://www.freecodecamp.org/certification/AlgoRhythem/responsive-web-design)
-    * **Projects Completed (Hosted on GitHub):**
-        * **Survey Form**
-            * _A responsive form to collect user data, built with HTML and CSS._
-            * Code: [View Code](https://github.com/brandys-algorythem/fcc-responsive-survey-form) | Live Demo: [See it Live](https://brandys-algorythem.github.io/fcc-responsive-survey-form/)
-        * **Tribute Page**
-            * _A simple, responsive webpage dedicated to a subject of choice, showcasing semantic HTML and styling._
-            * Code: [View Code](https://github.com/brandys-algorythem/fcc-responsive-tribute-page) | Live Demo: [See it Live](https://brandys-algorythem.github.io/fcc-responsive-tribute-page/)
-        * **Technical Documentation Page**
-            * _A responsive page designed to provide technical documentation, featuring a navigation menu for easy access to sections._
-            * Code: [View Code](https://github.com/brandys-algorythem/fcc-responsive-tech-docs) | Live Demo: [See it Live](https://brandys-algorythem.github.io/fcc-responsive-tech-docs/)
-        * **Product Landing Page**
-            * _A responsive landing page to showcase a product, including features, media, and pricing elements._
-            * Code: [View Code](https://github.com/brandys-algorythem/fcc-responsive-landing-page) | Live Demo: [See it Live](https://brandys-algorythem.github.io/fcc-responsive-landing-page/)
-            * *Note: Please verify the repository and live link for the Product Landing Page if different from the assumed `fcc-responsive-landing-page` convention.*
-        * **Personal Portfolio Webpage (FCC Version)**
-            * _My first responsive portfolio page developed as part of the freeCodeCamp curriculum._
-            * Code: [View Code](https://github.com/brandys-algorythem/fcc-responsive-portfolio) | Live Demo: [See it Live](https://brandys-algorythem.github.io/fcc-responsive-portfolio/)
-
-* **JavaScript Algorithms and Data Structures Certification – freeCodeCamp** (Currently Pursuing, Expected Dec 2025 - *Adjust date if needed*)
-    * *(Projects will be added upon completion)*
-
+* **Proficiency in Responsive Web Design Principles** (Demonstrated through projects completed May 17, 2025)
+* **Currently Studying JavaScript Algorithms and Data Structures** (Expected to deepen proficiency by Dec 2025 - *Adjust date if needed*)
 * Coursework in General Studies – Colorado Technical University (CTU) Online (2014 – 2016)
 
 ---
