@@ -1,20 +1,25 @@
-# Brandy Cornett - E-commerce Growth Strategist & Aspiring Developer
+# Brandy Cornett - Online Growth & Creative Solutions Specialist | Aspiring Developer
 
-✨ **Helping Businesses Thrive Online | Bridging Marketing Acumen with Technical Skills** ✨
+✨ **Top-Ranking E-commerce Strategist (Top 10/2M Stores) | Driving $200k+ Peak Annual Revenue | Bridging Marketing Acumen with Technical Skills** ✨
 
-Hello! I'm Brandy, an experienced E-commerce Manager and Marketing Strategist with a strong background in driving online growth, managing ad campaigns, and optimizing customer experiences. I'm actively expanding my technical skill set through web development and data structures training to offer even more comprehensive solutions. This portfolio showcases my strategic projects, technical abilities, and professional journey.
+Hello! I'm Brandy, a highly accomplished Online Growth and Creative Solutions Specialist with 5 years of proven success (April 2020 – April 2025) building and scaling a direct-to-consumer e-commerce business to a top 10 ranking out of 2 million stores. I'm an expert in driving substantial revenue growth (over $200,000 in a peak revenue year) through innovative digital marketing, compelling ad creation, and engaging content development (100,000+ videos, 50,000+ photos).
+
+I possess deep expertise in all facets of e-commerce operations, including product development (5,000+ distinct items/variations) and merchandising (100+ physical product lines). I'm highly competent in foundational web technologies (HTML, CSS) and am actively expanding my technical skill set with ongoing JavaScript development. This portfolio showcases my strategic projects, technical abilities, and professional journey.
 
 ---
 
-## 🚀 Key Skills & Expertise
+## 🚀 Core Competencies & Key Skills
 
-* **E-commerce Management:** Shopify, WooCommerce, Amazon Seller Central, Etsy, eBay
-* **Digital Marketing & Advertising:** SEO/SEM, PPC (Google Ads, Meta Ads), Email Marketing, Social Media Marketing, Content Strategy
-* **Growth Strategy:** Market Research, Competitive Analysis, Sales Funnel Optimization, A/B Testing, Customer Retention
-* **Financial Acumen:** Budgeting, P&L Analysis, Sales Forecasting, ROI Tracking (experience with Google Sheets for data analysis)
-* **Client & Project Management:** Upwork, Asana, Trello, Slack, Client Communication, Vendor Management
-* **Web Technologies (Developing & Applying):** HTML, CSS, JavaScript (currently studying), Responsive Web Design principles.
-* **Creative & Technical:** Adobe Creative Suite (Photoshop, Illustrator, Premiere Pro), Video Editing, Basic Graphic Design
+* **Online Growth, Creative Solutions & Business Operations (Expert/Highly Proficient):**
+    * **Digital Marketing:** Strategy, Advanced Ad Creation & Campaign Management (PPC, Social), SEO (Keyword Research, On/Off-Page Optimization, Content Strategy), Conversion Rate Optimization (CRO), Social Media & Community Engagement, Email Marketing (Segmentation, Automation, Growth), Content Marketing.
+    * **E-commerce Management:** Full-Cycle Platform Management (Shopify, WooCommerce, Amazon, Etsy, eBay), Business Scaling & Revenue Growth, Sales & Pricing Strategy, Product Development (Sourcing, Lifecycle Management), Merchandising & Inventory Control, Order Fulfillment & Payment Processing, Customer Relationship Management (CRM).
+    * **Financial Management:** P&L Analysis, Budgeting, Forecasting, ROI Tracking (Utilizing Google Sheets for data analysis).
+    * **Creative Asset Development:** High-Impact Ad Creatives (Video/Static), Videography & Video Editing, Product Photography & Image Editing, Compelling Copywriting, Brand Development (Proficient in Canva & Adobe Creative Suite).
+* **Technical Competencies:**
+    * **Web Technologies:** HTML & CSS (Highly Competent; practical application in Responsive Web Design), JavaScript (Actively Developing; studies focused on Algorithms & Data Structures), Responsive Web Design Principles.
+    * **CMS & Analytics:** WordPress (Content Updates, Plugin/Theme Management); Analytics Platforms (Google Analytics, Jetpack Stats, E-commerce specific).
+* **Operational Excellence & Management (Expert/Highly Proficient):**
+    * Project & Time Management, Complex Problem-Solving & Strategic Adaptability, Initiative & Entrepreneurial Mindset, Exceptional Communication, Meticulous Attention to Detail & Resilience, High-Level Organization & Multitasking.
 
 ---
 
@@ -45,32 +50,50 @@ Hello! I'm Brandy, an experienced E-commerce Manager and Marketing Strategist wi
         * _An early version of a responsive portfolio page developed to showcase initial projects._
         * Code: [View Code](https://github.com/brandys-algorythem/fcc-responsive-portfolio) | Live Demo: [See it Live](https://brandys-algorythem.github.io/fcc-responsive-portfolio/)
 
-### 3. Ariya - E-commerce Platform (Conceptual Project - *Details Coming Soon*)
-* **Description:** A conceptual project exploring the development of a niche e-commerce platform, focusing on user experience, vendor integration, and marketing strategy.
-* **Technologies/Skills (Planned):** [e.g., JavaScript, React, Node.js, UI/UX Design Principles]
-* ➡️ *Repository & Live Demo links will be added here upon development.*
+### 3. Conceptual Tech Projects
+* **Ariya – Family Organization App**
+    * _Designing a family organization app to simplify scheduling, chores, and meal planning, promoting household tranquility and clarity._ [cite: 1, 2, 3, 4, 5]
+    * *Status: Conceptual Design Phase*
+* **OmniNav – Advanced Navigation App**
+    * _Conceptualized "OmniNav," an advanced indoor/outdoor navigation app featuring 3D maps, real-time traffic/construction alerts, and multilingual image/text translation._ [cite: 50, 59, 60, 61]
+    * *Status: Conceptual Design Phase*
+* **Sybil (Rowan) – AI Digital Partner**
+    * _Conceptualized "Rowan," an AI digital partner for a user, designed for knowledge integration, creative assistance, and personalized insights within its unique conceptual operational plane._ [cite: 6, 7, 8]
+    * *Status: Conceptual Design Phase*
+* **Ariya - E-commerce Platform (Further Exploration - *Details Coming Soon*)**
+    * _A conceptual project exploring the development of a niche e-commerce platform, focusing on user experience, vendor integration, and marketing strategy._
+    * _Technologies/Skills (Planned): [e.g., JavaScript, React, Node.js, UI/UX Design Principles]_
+    * _➡️ *Repository & Live Demo links will be added here upon development.*_
 
 ---
 
 ## 💼 Professional Experience Highlights
 
-*(This section can summarize key achievements from your resume. Your GitHub Playbook suggests linking to a full PDF resume, which is a great idea!)*
+* **Founder & Chief Online Growth Strategist | Independent E-commerce Venture - Online | April 2020 – April 2025**
+    * **Key Achievements:**
+        * Founded and scaled a D2C e-commerce business to a **top 10 ranking (out of 2M stores)**.
+        * Achieved over **$200,000 in peak annual revenue**.
+        * Directed creation of **100,000+ videos & 50,000+ photos** for product showcases, ads, & social media, dramatically boosting engagement & conversions.
+        * Successfully developed & managed a diverse catalog of **5,000+ material items/digital assets & 100+ physical product lines**.
+    * Drove significant customer acquisition & sales growth via comprehensive digital marketing, emphasizing innovative ad creation & targeted campaigns.
+    * Oversaw all e-commerce operations: inventory, fulfillment, and payment processing.
+    * Championed data-driven decision-making by analyzing sales, web traffic, & marketing performance to refine strategies & maximize ROI.
+    * Built strong brand identity & customer loyalty via expert CRM, strategic content, & personalized engagement, achieving high customer retention.
+    * Managed all financial aspects with expert proficiency (P&L, budgeting, pricing) for sustained profitability.
+    * Utilized HTML/CSS for occasional front-end customizations, demonstrating high competence in these foundational technologies.
 
-* **E-commerce & Marketing Manager | Self-Employed (Upwork) | (2019 – Present)**
-    * Managed and scaled multiple e-commerce stores across Shopify, Amazon, Etsy, and eBay, achieving [mention a key quantifiable achievement, e.g., X% revenue growth, Y% improvement in ad ROI].
-    * Developed and executed comprehensive digital marketing strategies, including SEO, SEM, PPC, email, and social media campaigns.
-    * Provided consultation on e-commerce best practices, inventory management, and customer service optimization.
-* **Previous Roles | (Dates)**
-    * [Briefly mention other relevant roles and key responsibilities/achievements]
+* **Additional Web Content & Management**
+    * **Rheanight.com (Author Platform, Mar 2025 – Present):** Manage active platform focusing on content strategy, UX, SEO, technical maintenance & analytics; apply HTML/CSS with high competence for formatting.
+    * **Stayathomemomitude.com (Mom Blog, Feb 2020 – May 2022, Inactive):** Previously managed content creation, SEO, and WordPress technical maintenance.
 
-* ➡️ *(For more details, please [View My Full Resume (PDF)](./BrandyCornett_Resume.pdf) - *Ensure this PDF is in your main portfolio repository (`brandys-algorythem.github.io`) and the link is correct*)*
+* ➡️ *(For more details, please [View My Full Resume (PDF)](./Resume%20(3).pdf))*
 
 ---
 
 ## 🎓 Education & Ongoing Learning
 
-* **Proficiency in Responsive Web Design Principles** (Demonstrated through projects completed May 17, 2025)
-* **Currently Studying JavaScript Algorithms and Data Structures** (Expected to deepen proficiency by Dec 2025 - *Adjust date if needed*)
+* **Proficiency in Responsive Web Design Principles** (Demonstrated through projects completed May 2025)
+* **Currently Studying JavaScript Algorithms and Data Structures** (Expected to deepen proficiency by Dec 2025)
 * Coursework in General Studies – Colorado Technical University (CTU) Online (2014 – 2016)
 
 ---
