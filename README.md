@@ -86,7 +86,7 @@ I possess deep expertise in all facets of e-commerce operations, including produ
     * **Rheanight.com (Author Platform, Mar 2025 – Present):** Manage active platform focusing on content strategy, UX, SEO, technical maintenance & analytics; apply HTML/CSS with high competence for formatting.
     * **Stayathomemomitude.com (Mom Blog, Feb 2020 – May 2022, Inactive):** Previously managed content creation, SEO, and WordPress technical maintenance.
 
-* ➡️ *(For more details, please [View My Full Resume (PDF)](./Resume%20(3).pdf))*
+* ➡️ *(For more details, please [View My Full Resume (PDF)](Resume%202.0.pdf))*
 
 ---
 
