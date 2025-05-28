@@ -1,5 +1,48 @@
 /* --- Harmonic Data Flow & Deep Rhythm & Contrast Theme --- */
 
+/* --- CSS Custom Properties (Variables) --- */
+:root {
+    --primary-bg: #2C3E50; /* Deep Navy */
+    --secondary-bg: #34495E; /* Slightly Lighter Navy for elements */
+    --nav-bg: #22303E; /* Darker for nav/footer */
+    --card-bg: #34495E; /* Card Background */
+    
+    --text-color-body: #BDC3C7; /* Light Gray for body */
+    --text-color-headings: #ECF0F1; /* Very Light Gray / Off-White for headings */
+    --text-color-strong: #ECF0F1;
+    --text-color-on-accent-button: #2C3E50; /* Dark text for light accent buttons */
+
+    --accent-color-primary: #1ABC9C; /* Turquoise */
+    --accent-color-secondary: #FFD700; /* Gold */
+    --accent-color-primary-text: #1dd2af; /* Lighter Turquoise for text links if needed */
+    --accent-color-conceptual-border: #FFD700;
+
+    --divider-color: #4A6278; /* Subtle Element: Slightly Lighter Dark Gray */
+
+    --font-primary: 'Roboto', sans-serif;
+    --font-headings: 'Montserrat', sans-serif;
+
+    --base-font-size: 16px;
+    --line-height-base: 1.7;
+    --line-height-heading: 1.3;
+
+    --spacing-unit: 1rem;
+    --padding-section-vertical: clamp(2.5rem, 8vh, 5rem);
+    --padding-section-horizontal: 5%;
+    --padding-card: clamp(1.5rem, 3vw, 2.5rem);
+
+    --border-radius-soft: 12px;
+    --border-radius-pill: 50px;
+
+    --shadow-depth-medium: 0 8px 16px rgba(0, 0, 0, 0.25);
+    --shadow-depth-light: 0 4px 8px rgba(0,0,0,0.2);
+    --shadow-accent-hover: 0 12px 24px rgba(26, 188, 156, 0.2); /* Shadow with accent color hint */
+    --shadow-secondary-accent-hover: 0 6px 12px rgba(255, 215, 0, 0.3);
+    --text-shadow-subtle: 0 2px 4px rgba(0, 0, 0, 0.3);
+    --text-shadow-gold-glow: 0 0 8px rgba(255, 215, 0, 0.4);
+}
+
+
 /* --- Global Resets & Base Styles --- */
 *,
 *::before,
@@ -10,159 +53,166 @@
 }
 
 html {
-    scroll-behavior: smooth; /* Smooth scrolling for anchor links */
-    font-size: 16px; /* Base font size for REM units */
+    scroll-behavior: smooth;
+    font-size: var(--base-font-size);
 }
 
 body {
-    font-family: 'Roboto', sans-serif;
-    background-color: #2C3E50; /* Primary Background: Deep Navy */
-    color: #BDC3C7; /* Body Text Color: Light Gray */
-    line-height: 1.7;
-    -webkit-font-smoothing: antialiased; /* Smoother fonts on WebKit */
-    -moz-osx-font-smoothing: grayscale; /* Smoother fonts on Firefox */
-    overflow-x: hidden; /* Prevent horizontal scroll */
+    font-family: var(--font-primary);
+    background-color: var(--primary-bg);
+    color: var(--text-color-body);
+    line-height: var(--line-height-base);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-x: hidden;
 }
 
 /* --- Typography & Headings --- */
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Montserrat', sans-serif;
-    color: #ECF0F1; /* Headings Color: Very Light Gray / Off-White */
+    font-family: var(--font-headings);
+    color: var(--text-color-headings);
     margin-top: 0;
-    margin-bottom: 1rem; /* Consistent bottom margin */
+    margin-bottom: var(--spacing-unit);
     font-weight: 700;
-    line-height: 1.3;
-    letter-spacing: 0.5px; /* Subtle letter spacing for headings */
+    line-height: var(--line-height-heading);
+    letter-spacing: 0.5px;
 }
 
 h1 {
-    font-size: clamp(2.5rem, 5vw, 3.8rem); /* Responsive font size */
+    font-size: clamp(2.5rem, 5vw, 3.8rem);
     text-align: center;
     margin-bottom: 0.75rem;
-    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3); /* Subtle depth */
+    text-shadow: var(--text-shadow-subtle);
 }
 
 header h2 { /* Sub-headline in header */
     font-size: clamp(1.2rem, 3vw, 1.8rem);
     font-weight: 400;
-    color: #BDC3C7; /* Slightly softer for subtitle */
+    color: var(--text-color-body); /* Softer for subtitle */
     border-bottom: none;
-    margin-bottom: 1.5rem;
+    margin-bottom: calc(var(--spacing-unit) * 1.5);
     text-align: center;
 }
 
 h2 { /* Section headings */
     font-size: clamp(1.8rem, 4vw, 2.5rem);
-    padding-bottom: 0.5rem;
-    margin-bottom: 2rem;
-    border-bottom: 3px solid #1ABC9C; /* Accent color border */
-    display: inline-block; /* So border only spans text width */
+    padding-bottom: calc(var(--spacing-unit) / 2);
+    margin-bottom: calc(var(--spacing-unit) * 2);
+    border-bottom: 3px solid var(--accent-color-primary);
+    display: inline-block;
 }
 
 h2 .icon {
     margin-right: 0.5em;
-    color: #1ABC9C; /* Accent color for icons */
+    color: var(--accent-color-primary);
 }
 
 h3 {
     font-size: clamp(1.4rem, 3vw, 1.8rem);
-    color: #1ABC9C; /* Accent for H3 to make them pop */
-    margin-bottom: 0.75rem;
+    color: var(--accent-color-primary);
+    margin-bottom: calc(var(--spacing-unit) * 0.75);
 }
 
 h4 {
     font-size: clamp(1.1rem, 2.5vw, 1.4rem);
-    color: #ECF0F1;
-    margin-bottom: 0.5rem;
+    color: var(--text-color-headings);
+    margin-bottom: calc(var(--spacing-unit) / 2);
 }
 
 p {
-    margin-bottom: 1.25rem;
-    max-width: 75ch; /* Optimal reading line length */
+    margin-bottom: calc(var(--spacing-unit) * 1.25);
+    max-width: 75ch;
 }
 
 strong, b {
     font-weight: 700;
-    color: #ECF0F1; /* Make strong text stand out */
+    color: var(--text-color-strong);
 }
 
 em, i {
     font-style: italic;
-    color: #1ABC9C; /* Accent for emphasis */
+    color: var(--accent-color-primary-text); /* Using a lighter shade for better readability if on dark bg */
 }
 
 /* --- Links & Buttons --- */
 a {
-    color: #1ABC9C; /* Accent Color: Turquoise */
+    color: var(--accent-color-primary-text); /* Adjusted for potentially better contrast */
     text-decoration: none;
     transition: color 0.3s ease-in-out, text-shadow 0.3s ease-in-out;
 }
 
 a:hover, a:focus {
-    color: #FFD700; /* Gold on hover/focus */
+    color: var(--accent-color-secondary);
     text-decoration: underline;
     text-decoration-thickness: 1px;
     text-underline-offset: 3px;
-    text-shadow: 0 0 8px rgba(255, 215, 0, 0.4);
+    text-shadow: var(--text-shadow-gold-glow);
 }
+/* Ensure focus styles are visible */
+a:focus {
+    outline: 2px solid var(--accent-color-secondary);
+    outline-offset: 2px;
+}
+
 
 .call-to-action-link a,
 .project-links a:not(.repo-link-style a) { /* Exclude basic repo links if needed */
     display: inline-block;
     padding: 0.75em 1.5em;
-    background-color: #1ABC9C;
-    color: #2C3E50; /* Dark text on light button */
-    border-radius: 50px; /* Pill shape */
+    background-color: var(--accent-color-primary);
+    color: var(--text-color-on-accent-button);
+    border-radius: var(--border-radius-pill);
     font-weight: 600;
     text-decoration: none;
     transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    box-shadow: var(--shadow-depth-light);
     border: 2px solid transparent;
 }
 
 .call-to-action-link a:hover,
 .project-links a:not(.repo-link-style a):hover {
-    background-color: #FFD700;
-    color: #2C3E50;
+    background-color: var(--accent-color-secondary);
+    color: var(--text-color-on-accent-button);
     transform: translateY(-3px) scale(1.03);
-    box-shadow: 0 6px 12px rgba(255, 215, 0, 0.3);
-    text-shadow: none;
+    box-shadow: var(--shadow-secondary-accent-hover);
+    text-shadow: none; /* Remove text-shadow from button text itself on hover */
 }
 .call-to-action-link a:focus,
 .project-links a:not(.repo-link-style a):focus {
-    outline: 2px solid #FFD700;
+    outline: 2px solid var(--accent-color-secondary);
     outline-offset: 2px;
+    background-color: var(--accent-color-secondary); /* Maintain hover style on focus */
+    color: var(--text-color-on-accent-button);
 }
 
 
 .repo-link a {
     font-size: 0.9em;
-    color: #BDC3C7;
+    color: var(--text-color-body);
 }
 
-.repo-link a:hover {
-    color: #1ABC9C;
+.repo-link a:hover, .repo-link a:focus {
+    color: var(--accent-color-primary-text);
     text-shadow: none;
 }
 
 /* --- Layout & Sections --- */
 header#hero {
-    background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%); /* Subtle gradient */
-    padding: clamp(3rem, 10vh, 6rem) 5%; /* Responsive padding */
+    background: linear-gradient(135deg, var(--primary-bg) 0%, var(--secondary-bg) 100%);
+    padding: clamp(3rem, 10vh, 6rem) var(--padding-section-horizontal);
     text-align: center;
-    color: #ECF0F1;
-    position: relative; /* For potential pseudo-elements or animations */
-    /* Add a subtle pattern or animated particles later if desired */
+    color: var(--text-color-headings);
+    position: relative;
 }
 
-header#hero::before { /* Optional: subtle bottom shape */
+header#hero::before {
     content: '';
     position: absolute;
     bottom: 0;
     left: 0;
     width: 100%;
-    height: 50px; /* Adjust height */
-    background: linear-gradient(to bottom, rgba(44, 62, 80, 0), #2C3E50);
+    height: 50px;
+    background: linear-gradient(to bottom, rgba(44, 62, 80, 0), var(--primary-bg));
     z-index: 0;
 }
 
@@ -170,8 +220,8 @@ header#hero::before { /* Optional: subtle bottom shape */
 .tagline {
     font-size: clamp(1rem, 2.5vw, 1.2rem);
     font-weight: 300;
-    color: #BDC3C7;
-    margin-top: 1rem;
+    color: var(--text-color-body);
+    margin-top: var(--spacing-unit);
     line-height: 1.5;
     max-width: 800px;
     margin-left: auto;
@@ -179,8 +229,8 @@ header#hero::before { /* Optional: subtle bottom shape */
 }
 
 nav#main-nav {
-    background-color: #22303E; /* Slightly darker for nav */
-    padding: 0.75rem 5%;
+    background-color: var(--nav-bg);
+    padding: 0.75rem var(--padding-section-horizontal);
     position: sticky;
     top: 0;
     z-index: 1000;
@@ -193,14 +243,14 @@ nav#main-nav ul {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    gap: 1.5rem;
+    gap: calc(var(--spacing-unit) * 1.5);
 }
 
 nav#main-nav ul li a {
-    color: #ECF0F1;
+    color: var(--text-color-headings);
     font-weight: 600;
-    padding: 0.5rem 0.25rem;
-    position: relative; /* For underline animation */
+    padding: calc(var(--spacing-unit) / 2) calc(var(--spacing-unit) / 4);
+    position: relative;
     text-decoration: none;
 }
 
@@ -212,7 +262,7 @@ nav#main-nav ul li a::after {
     bottom: -2px;
     left: 50%;
     transform: translateX(-50%);
-    background-color: #FFD700;
+    background-color: var(--accent-color-secondary);
     transition: width 0.3s ease-in-out;
 }
 
@@ -220,85 +270,87 @@ nav#main-nav ul li a:hover::after,
 nav#main-nav ul li a:focus::after {
     width: 100%;
 }
+/* Ensure focus on nav links is clear even without ::after if JS is off for some reason */
+nav#main-nav ul li a:focus {
+    outline: 1px dashed var(--accent-color-secondary); /* Subtle outline for focused nav links */
+    outline-offset: 3px;
+}
+
 
 .content-section {
-    padding: clamp(2.5rem, 8vh, 5rem) 5%; /* Responsive padding */
+    padding: var(--padding-section-vertical) var(--padding-section-horizontal);
     max-width: 1200px;
     margin: 0 auto;
 }
 
 .section-divider {
     border: none;
-    border-top: 1px solid #4A6278; /* Subtle Element: Slightly Lighter Dark Gray */
-    margin: 3rem auto; /* Increased margin */
+    border-top: 1px solid var(--divider-color);
+    margin: calc(var(--spacing-unit) * 3) auto;
     width: 70%;
     opacity: 0.7;
 }
 
 /* --- Lists --- */
-ul:not(.connect-links):not(.main-nav ul) { /* Exclude specific ULs if needed */
+ul:not(.connect-links):not(#main-nav ul) {
     list-style: none;
     padding-left: 0;
-    margin-bottom: 1.5em;
+    margin-bottom: calc(var(--spacing-unit) * 1.5);
 }
 
-ul:not(.connect-links):not(.main-nav ul) li {
+ul:not(.connect-links):not(#main-nav ul) li {
     position: relative;
-    padding-left: 30px; /* Space for custom bullet */
-    margin-bottom: 1em; /* Increased spacing */
+    padding-left: 30px;
+    margin-bottom: var(--spacing-unit);
 }
 
-ul:not(.connect-links):not(.main-nav ul) li::before {
-    content: '»'; /* Custom bullet - more dynamic */
-    color: #1ABC9C; /* Accent color for bullets */
+ul:not(.connect-links):not(#main-nav ul) li::before {
+    content: '»';
+    color: var(--accent-color-primary);
     position: absolute;
     left: 0;
-    font-size: 1.5em; /* Larger bullet */
+    font-size: 1.5em;
     line-height: 1;
     font-weight: bold;
     transition: transform 0.2s ease-in-out;
 }
 
-ul:not(.connect-links):not(.main-nav ul) li:hover::before {
-    transform: translateX(5px) scale(1.1); /* Subtle animation on list item hover */
+ul:not(.connect-links):not(#main-nav ul) li:hover::before {
+    transform: translateX(5px) scale(1.1);
 }
 
-/* --- Project Cards --- */
+/* --- Cards (Project, Job Entry, Competency) --- */
 .project-card, .job-entry, .competency-category {
-    background-color: #34495E; /* Slightly lighter background for cards */
-    padding: clamp(1.5rem, 3vw, 2.5rem); /* Responsive padding */
-    border-radius: 12px; /* Softer radius */
-    margin-bottom: 2.5rem; /* More spacing */
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.25); /* Enhanced shadow for depth */
+    background-color: var(--card-bg);
+    padding: var(--padding-card);
+    border-radius: var(--border-radius-soft);
+    margin-bottom: calc(var(--spacing-unit) * 2.5);
+    box-shadow: var(--shadow-depth-medium);
     transition: transform 0.35s cubic-bezier(0.25, 0.8, 0.25, 1), box-shadow 0.35s cubic-bezier(0.25, 0.8, 0.25, 1);
-    border-left: 5px solid #1ABC9C; /* Accent border */
+    border-left: 5px solid var(--accent-color-primary);
 }
 
 .project-card:hover, .job-entry:hover, .competency-category:hover {
-    transform: translateY(-8px) scale(1.01); /* More noticeable lift */
-    box-shadow: 0 12px 24px rgba(26, 188, 156, 0.2); /* Shadow with accent color hint */
+    transform: translateY(-8px) scale(1.01);
+    box-shadow: var(--shadow-accent-hover);
 }
 
 .project-card.conceptual {
-    border-left-color: #FFD700; /* Gold accent for conceptual */
-    background: linear-gradient(135deg, #34495E, #3a506b); /* Subtle gradient for conceptual */
-}
-
-.project-card h3 { /* Already styled, but can be fine-tuned if needed */
-    margin-top: 0;
+    border-left-color: var(--accent-color-conceptual-border);
+    background: linear-gradient(135deg, var(--secondary-bg), #3a506b); /* #3a506b is a slightly different shade for conceptual */
 }
 
 .projects-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(min(100%, 350px), 1fr)); /* Responsive grid */
-    gap: 2rem;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 350px), 1fr));
+    gap: calc(var(--spacing-unit) * 2);
 }
 
 /* --- Experience Section Specifics --- */
 .job-entry .job-subtitle {
     font-style: italic;
-    color: #BDC3C7;
-    margin-bottom: 1rem;
+    color: var(--text-color-body);
+    margin-bottom: var(--spacing-unit);
     font-size: 0.95rem;
 }
 
@@ -308,8 +360,8 @@ ul:not(.connect-links):not(.main-nav ul) li:hover::before {
     padding: 0;
     display: flex;
     flex-wrap: wrap;
-    gap: 1.5rem; /* Spacing between links */
-    justify-content: center; /* Center links if they wrap */
+    gap: calc(var(--spacing-unit) * 1.5);
+    justify-content: center;
 }
 
 .connect-links li a {
@@ -318,17 +370,17 @@ ul:not(.connect-links):not(.main-nav ul) li:hover::before {
 }
 
 .connect-links .call-to-action-link {
-    margin-top: 1rem; /* Add some space above the resume CTA if it's part of this list */
+    margin-top: var(--spacing-unit);
 }
 
 /* --- Footer --- */
 footer {
-    background-color: #22303E; /* Even darker shade for footer */
-    color: #BDC3C7;
+    background-color: var(--nav-bg);
+    color: var(--text-color-body);
     text-align: center;
-    padding: 2.5rem 5%;
+    padding: calc(var(--spacing-unit) * 2.5) var(--padding-section-horizontal);
     font-size: 0.9em;
-    border-top: 1px solid #4A6278;
+    border-top: 1px solid var(--divider-color);
     position: relative;
 }
 
@@ -336,8 +388,8 @@ footer {
     position: fixed;
     bottom: 20px;
     right: 20px;
-    background-color: #1ABC9C;
-    color: #2C3E50;
+    background-color: var(--accent-color-primary);
+    color: var(--text-color-on-accent-button);
     width: 45px;
     height: 45px;
     border-radius: 50%;
@@ -346,33 +398,27 @@ footer {
     justify-content: center;
     font-size: 1.5rem;
     text-decoration: none;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
-    transition: background-color 0.3s ease, transform 0.3s ease, opacity 0.3s ease;
-    opacity: 0; /* Hidden by default */
-    visibility: hidden; /* Hidden by default */
+    box-shadow: var(--shadow-depth-light);
+    transition: background-color 0.3s ease, transform 0.3s ease, opacity 0.3s ease, visibility 0.3s ease;
+    opacity: 0;
+    visibility: hidden;
     transform: translateY(20px);
 }
 
-.back-to-top.visible { /* Class added by JS */
+.back-to-top.visible {
     opacity: 1;
     visibility: visible;
     transform: translateY(0);
 }
 
-.back-to-top:hover {
-    background-color: #FFD700;
+.back-to-top:hover, .back-to-top:focus {
+    background-color: var(--accent-color-secondary);
     transform: scale(1.1);
+    color: var(--text-color-on-accent-button); /* Ensure text color stays consistent on hover */
+    outline: none; /* Custom focus style handled by hover */
 }
 
-/* --- Animations & Interactive Elements (Subtle "Harmonic Data Flow") --- */
-
-/* General hover effect for interactive cards */
-.interactive-card {
-    /* Already has hover effect from .project-card */
-}
-
-/* Fade-in for sections on scroll (requires JS Intersection Observer for best performance) */
-/* Placeholder - for JS driven animations */
+/* --- Animations & Interactive Elements --- */
 .fade-in-section {
     opacity: 0;
     transform: translateY(30px);
@@ -384,7 +430,7 @@ footer {
     transform: translateY(0);
 }
 
-/* Staggered animation for items in a list or grid (requires JS) */
+/* Staggered animation (requires JS to add delays to children) */
 .stagger-animation > * {
     opacity: 0;
     transform: translateY(20px);
@@ -395,32 +441,35 @@ footer {
 /* --- Responsive Design Adjustments --- */
 @media (max-width: 992px) {
     nav#main-nav ul {
-        gap: 1rem; /* Smaller gap for nav items */
+        gap: var(--spacing-unit);
     }
 }
 
 @media (max-width: 768px) {
+    :root { /* Adjust some variables for smaller screens if needed */
+        --padding-section-vertical: clamp(2rem, 6vh, 4rem);
+    }
     h1 { font-size: 2.2rem; }
     header h2 { font-size: 1.3rem; }
     h2 { font-size: 1.9rem; }
     h3 { font-size: 1.5rem; }
 
     nav#main-nav ul {
-        justify-content: space-around; /* Better distribution on smaller screens */
-        gap: 0.5rem;
+        justify-content: space-around;
+        gap: calc(var(--spacing-unit) / 2);
     }
     nav#main-nav ul li a {
         font-size: 0.9rem;
-        padding: 0.5rem 0.1rem;
+        padding: calc(var(--spacing-unit) / 2) 0.1rem;
     }
 
     .content-section {
-        padding: 2rem 4%;
+        padding: var(--padding-section-vertical) 4%;
     }
 
     .projects-grid {
-        grid-template-columns: 1fr; /* Stack project cards */
-        gap: 1.5rem;
+        grid-template-columns: 1fr;
+        gap: calc(var(--spacing-unit) * 1.5);
     }
 }
 
@@ -440,7 +489,7 @@ footer {
     }
 
     nav#main-nav {
-        padding: 0.5rem 4%;
+        padding: calc(var(--spacing-unit) / 2) 4%;
     }
     nav#main-nav ul li a {
         font-size: 0.85rem;
@@ -453,42 +502,3 @@ footer {
         right: 15px;
     }
 }
-
-/* Add this to your script tag in HTML for the back-to-top button */
-/*
-<script>
-    // ... (existing script for year)
-
-    const backToTopButton = document.querySelector('.back-to-top');
-    window.addEventListener('scroll', () => {
-        if (window.pageYOffset > 300) { // Show button after scrolling 300px
-            backToTopButton.classList.add('visible');
-        } else {
-            backToTopButton.classList.remove('visible');
-        }
-    });
-
-    // Intersection Observer for fade-in sections (example)
-    const sections = document.querySelectorAll('.fade-in-section'); // Add this class to sections you want to animate
-    const observer = new IntersectionObserver(entries => {
-        entries.forEach(entry => {
-            if (entry.isIntersecting) {
-                entry.target.classList.add('is-visible');
-                observer.unobserve(entry.target); // Optional: stop observing after animation
-            }
-        });
-    }, { threshold: 0.1 }); // Adjust threshold as needed
-
-    sections.forEach(section => {
-        observer.observe(section);
-    });
-
-    // Stagger animation (example) - more complex, might need individual item targeting
-    // document.querySelectorAll('.stagger-animation').forEach(container => {
-    //     Array.from(container.children).forEach((child, index) => {
-    //         child.style.transitionDelay = `${index * 0.1}s`; // Apply delay
-    //         // Trigger visibility with Intersection Observer similar to above
-    //     });
-    // });
-</script>
-*/
