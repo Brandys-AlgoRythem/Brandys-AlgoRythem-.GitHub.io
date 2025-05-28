@@ -1,231 +1,494 @@
-/* General Body and Page Layout */
-body {
-    font-family: 'Roboto', sans-serif; /* Primary Body Font */
-    background-color: #2C3E50; /* Primary Background: Dark Charcoal/Deep Navy */
-    color: #BDC3C7; /* Body Text Color: Light Gray */
+/* --- Harmonic Data Flow & Deep Rhythm & Contrast Theme --- */
+
+/* --- Global Resets & Base Styles --- */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
-    line-height: 1.6;
-    scroll-behavior: smooth; /* Smooth scrolling for navigation */
 }
 
-/* Global Styles for Sections */
-section {
-    padding: 40px 5%; /* Ample padding for sections */
-    max-width: 1200px; /* Max width for content */
-    margin: 0 auto; /* Center content */
+html {
+    scroll-behavior: smooth; /* Smooth scrolling for anchor links */
+    font-size: 16px; /* Base font size for REM units */
 }
 
-/* Headings */
-h1, h2, h3, h4 {
-    font-family: 'Montserrat', sans-serif; /* Heading Font */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #2C3E50; /* Primary Background: Deep Navy */
+    color: #BDC3C7; /* Body Text Color: Light Gray */
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased; /* Smoother fonts on WebKit */
+    -moz-osx-font-smoothing: grayscale; /* Smoother fonts on Firefox */
+    overflow-x: hidden; /* Prevent horizontal scroll */
+}
+
+/* --- Typography & Headings --- */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
     color: #ECF0F1; /* Headings Color: Very Light Gray / Off-White */
     margin-top: 0;
-    margin-bottom: 20px;
-    font-weight: 600; /* Slightly bolder for impact */
+    margin-bottom: 1rem; /* Consistent bottom margin */
+    font-weight: 700;
+    line-height: 1.3;
+    letter-spacing: 0.5px; /* Subtle letter spacing for headings */
 }
 
 h1 {
-    font-size: 2.8em;
+    font-size: clamp(2.5rem, 5vw, 3.8rem); /* Responsive font size */
     text-align: center;
-    margin-bottom: 15px;
-    color: #ECF0F1; /* Ensuring headline matches heading color */
+    margin-bottom: 0.75rem;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3); /* Subtle depth */
 }
 
-h2 {
-    font-size: 2.2em;
-    border-bottom: 2px solid #4A6278; /* Subtle separator under h2 */
-    padding-bottom: 10px;
-    margin-bottom: 30px;
+header h2 { /* Sub-headline in header */
+    font-size: clamp(1.2rem, 3vw, 1.8rem);
+    font-weight: 400;
+    color: #BDC3C7; /* Slightly softer for subtitle */
+    border-bottom: none;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+h2 { /* Section headings */
+    font-size: clamp(1.8rem, 4vw, 2.5rem);
+    padding-bottom: 0.5rem;
+    margin-bottom: 2rem;
+    border-bottom: 3px solid #1ABC9C; /* Accent color border */
+    display: inline-block; /* So border only spans text width */
+}
+
+h2 .icon {
+    margin-right: 0.5em;
+    color: #1ABC9C; /* Accent color for icons */
 }
 
 h3 {
-    font-size: 1.6em;
-    margin-bottom: 15px;
+    font-size: clamp(1.4rem, 3vw, 1.8rem);
+    color: #1ABC9C; /* Accent for H3 to make them pop */
+    margin-bottom: 0.75rem;
 }
 
 h4 {
-    font-size: 1.2em;
-    margin-bottom: 10px;
-}
-
-/* Header Specific Styles */
-header {
-    background-color: #2C3E50; /* Same as body background for seamlessness */
-    padding: 50px 5%;
-    text-align: center;
+    font-size: clamp(1.1rem, 2.5vw, 1.4rem);
     color: #ECF0F1;
+    margin-bottom: 0.5rem;
 }
 
-header h2 {
-    font-size: 1.8em;
-    font-weight: 400;
-    border-bottom: none; /* No border for main header H2 */
-    margin-bottom: 10px;
-}
-
-.tagline {
-    font-size: 1.1em;
-    font-weight: 300;
-    color: #BDC3C7;
-    margin-top: 20px;
-    line-height: 1.4;
-}
-
-/* Paragraphs */
 p {
-    margin-bottom: 1em;
+    margin-bottom: 1.25rem;
+    max-width: 75ch; /* Optimal reading line length */
 }
 
-/* Links and Buttons (Accent Color) */
+strong, b {
+    font-weight: 700;
+    color: #ECF0F1; /* Make strong text stand out */
+}
+
+em, i {
+    font-style: italic;
+    color: #1ABC9C; /* Accent for emphasis */
+}
+
+/* --- Links & Buttons --- */
 a {
     color: #1ABC9C; /* Accent Color: Turquoise */
     text-decoration: none;
-    transition: color 0.3s ease-in-out, text-shadow 0.3s ease-in-out; /* Smooth transition for hover */
+    transition: color 0.3s ease-in-out, text-shadow 0.3s ease-in-out;
 }
 
-a:hover {
-    color: #FFD700; /* Gold on hover for a dynamic feel */
-    text-shadow: 0 0 8px rgba(255, 215, 0, 0.5); /* Soft shadow on hover */
+a:hover, a:focus {
+    color: #FFD700; /* Gold on hover/focus */
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
+    text-shadow: 0 0 8px rgba(255, 215, 0, 0.4);
 }
 
-.project-links a, .call-to-action-link a {
+.call-to-action-link a,
+.project-links a:not(.repo-link-style a) { /* Exclude basic repo links if needed */
     display: inline-block;
-    padding: 8px 15px;
-    background-color: #1ABC9C; /* Accent Color */
-    color: #ECF0F1; /* Text on accent buttons */
-    border-radius: 5px;
-    transition: background-color 0.3s ease-in-out, transform 0.2s ease-in-out, box-shadow 0.3s ease-in-out;
+    padding: 0.75em 1.5em;
+    background-color: #1ABC9C;
+    color: #2C3E50; /* Dark text on light button */
+    border-radius: 50px; /* Pill shape */
+    font-weight: 600;
+    text-decoration: none;
+    transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    border: 2px solid transparent;
 }
 
-.project-links a:hover, .call-to-action-link a:hover {
-    background-color: #FFD700; /* Gold on hover */
-    color: #2C3E50; /* Dark text on gold hover */
-    transform: translateY(-2px); /* Subtle lift effect */
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+.call-to-action-link a:hover,
+.project-links a:not(.repo-link-style a):hover {
+    background-color: #FFD700;
+    color: #2C3E50;
+    transform: translateY(-3px) scale(1.03);
+    box-shadow: 0 6px 12px rgba(255, 215, 0, 0.3);
+    text-shadow: none;
 }
+.call-to-action-link a:focus,
+.project-links a:not(.repo-link-style a):focus {
+    outline: 2px solid #FFD700;
+    outline-offset: 2px;
+}
+
 
 .repo-link a {
     font-size: 0.9em;
-    color: #BDC3C7; /* Lighter color for repo links */
+    color: #BDC3C7;
 }
 
 .repo-link a:hover {
-    color: #1ABC9C; /* Turquoise on hover */
+    color: #1ABC9C;
     text-shadow: none;
 }
 
+/* --- Layout & Sections --- */
+header#hero {
+    background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%); /* Subtle gradient */
+    padding: clamp(3rem, 10vh, 6rem) 5%; /* Responsive padding */
+    text-align: center;
+    color: #ECF0F1;
+    position: relative; /* For potential pseudo-elements or animations */
+    /* Add a subtle pattern or animated particles later if desired */
+}
 
-/* Lists */
-ul {
-    list-style: none; /* Remove default bullet points */
+header#hero::before { /* Optional: subtle bottom shape */
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 50px; /* Adjust height */
+    background: linear-gradient(to bottom, rgba(44, 62, 80, 0), #2C3E50);
+    z-index: 0;
+}
+
+
+.tagline {
+    font-size: clamp(1rem, 2.5vw, 1.2rem);
+    font-weight: 300;
+    color: #BDC3C7;
+    margin-top: 1rem;
+    line-height: 1.5;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav#main-nav {
+    background-color: #22303E; /* Slightly darker for nav */
+    padding: 0.75rem 5%;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+    transition: background-color 0.3s ease;
+}
+
+nav#main-nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+}
+
+nav#main-nav ul li a {
+    color: #ECF0F1;
+    font-weight: 600;
+    padding: 0.5rem 0.25rem;
+    position: relative; /* For underline animation */
+    text-decoration: none;
+}
+
+nav#main-nav ul li a::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: -2px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #FFD700;
+    transition: width 0.3s ease-in-out;
+}
+
+nav#main-nav ul li a:hover::after,
+nav#main-nav ul li a:focus::after {
+    width: 100%;
+}
+
+.content-section {
+    padding: clamp(2.5rem, 8vh, 5rem) 5%; /* Responsive padding */
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.section-divider {
+    border: none;
+    border-top: 1px solid #4A6278; /* Subtle Element: Slightly Lighter Dark Gray */
+    margin: 3rem auto; /* Increased margin */
+    width: 70%;
+    opacity: 0.7;
+}
+
+/* --- Lists --- */
+ul:not(.connect-links):not(.main-nav ul) { /* Exclude specific ULs if needed */
+    list-style: none;
     padding-left: 0;
     margin-bottom: 1.5em;
 }
 
-ul li {
+ul:not(.connect-links):not(.main-nav ul) li {
     position: relative;
-    padding-left: 25px; /* Space for custom bullet */
-    margin-bottom: 0.8em;
+    padding-left: 30px; /* Space for custom bullet */
+    margin-bottom: 1em; /* Increased spacing */
 }
 
-ul li::before {
-    content: '•'; /* Custom bullet point */
+ul:not(.connect-links):not(.main-nav ul) li::before {
+    content: '»'; /* Custom bullet - more dynamic */
     color: #1ABC9C; /* Accent color for bullets */
     position: absolute;
     left: 0;
-    font-size: 1.2em;
+    font-size: 1.5em; /* Larger bullet */
     line-height: 1;
+    font-weight: bold;
+    transition: transform 0.2s ease-in-out;
 }
 
-/* Horizontal Rule Separator */
-hr {
-    border: none;
-    border-top: 1px solid #4A6278; /* Subtle Element: Slightly Lighter Dark Gray */
-    margin: 50px auto;
-    width: 80%; /* Control width */
+ul:not(.connect-links):not(.main-nav ul) li:hover::before {
+    transform: translateX(5px) scale(1.1); /* Subtle animation on list item hover */
 }
 
-/* Project Cards for Foundational and Conceptual Projects */
-.project-card {
+/* --- Project Cards --- */
+.project-card, .job-entry, .competency-category {
     background-color: #34495E; /* Slightly lighter background for cards */
-    padding: 25px;
-    border-radius: 8px;
-    margin-bottom: 30px;
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* Soft shadow for depth */
-    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out; /* Smooth transition */
+    padding: clamp(1.5rem, 3vw, 2.5rem); /* Responsive padding */
+    border-radius: 12px; /* Softer radius */
+    margin-bottom: 2.5rem; /* More spacing */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.25); /* Enhanced shadow for depth */
+    transition: transform 0.35s cubic-bezier(0.25, 0.8, 0.25, 1), box-shadow 0.35s cubic-bezier(0.25, 0.8, 0.25, 1);
+    border-left: 5px solid #1ABC9C; /* Accent border */
 }
 
-.project-card:hover {
-    transform: translateY(-5px); /* Subtle lift on hover */
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3); /* Enhanced shadow on hover */
+.project-card:hover, .job-entry:hover, .competency-category:hover {
+    transform: translateY(-8px) scale(1.01); /* More noticeable lift */
+    box-shadow: 0 12px 24px rgba(26, 188, 156, 0.2); /* Shadow with accent color hint */
 }
 
-.project-card h3 {
-    color: #ECF0F1; /* Ensure project titles are bright */
+.project-card.conceptual {
+    border-left-color: #FFD700; /* Gold accent for conceptual */
+    background: linear-gradient(135deg, #34495E, #3a506b); /* Subtle gradient for conceptual */
+}
+
+.project-card h3 { /* Already styled, but can be fine-tuned if needed */
     margin-top: 0;
 }
 
-.project-card ul {
-    margin-top: 10px;
+.projects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 350px), 1fr)); /* Responsive grid */
+    gap: 2rem;
 }
 
-.project-card ul li {
-    font-size: 0.95em;
+/* --- Experience Section Specifics --- */
+.job-entry .job-subtitle {
+    font-style: italic;
+    color: #BDC3C7;
+    margin-bottom: 1rem;
+    font-size: 0.95rem;
 }
 
-/* Specific styling for conceptual projects (optional distinction) */
-.project-card.conceptual {
-    border: 1px dashed #4A6278; /* Dashed border for conceptual projects */
+/* --- Connect Section --- */
+.connect-links {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem; /* Spacing between links */
+    justify-content: center; /* Center links if they wrap */
 }
 
-/* Footer */
+.connect-links li a {
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.connect-links .call-to-action-link {
+    margin-top: 1rem; /* Add some space above the resume CTA if it's part of this list */
+}
+
+/* --- Footer --- */
 footer {
     background-color: #22303E; /* Even darker shade for footer */
     color: #BDC3C7;
     text-align: center;
-    padding: 20px;
+    padding: 2.5rem 5%;
     font-size: 0.9em;
-    border-top: 1px solid #4A6278; /* Consistent top border */
+    border-top: 1px solid #4A6278;
+    position: relative;
 }
 
-/* Responsive Design Adjustments */
+.back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #1ABC9C;
+    color: #2C3E50;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    text-decoration: none;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+    transition: background-color 0.3s ease, transform 0.3s ease, opacity 0.3s ease;
+    opacity: 0; /* Hidden by default */
+    visibility: hidden; /* Hidden by default */
+    transform: translateY(20px);
+}
+
+.back-to-top.visible { /* Class added by JS */
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+}
+
+.back-to-top:hover {
+    background-color: #FFD700;
+    transform: scale(1.1);
+}
+
+/* --- Animations & Interactive Elements (Subtle "Harmonic Data Flow") --- */
+
+/* General hover effect for interactive cards */
+.interactive-card {
+    /* Already has hover effect from .project-card */
+}
+
+/* Fade-in for sections on scroll (requires JS Intersection Observer for best performance) */
+/* Placeholder - for JS driven animations */
+.fade-in-section {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+}
+
+.fade-in-section.is-visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* Staggered animation for items in a list or grid (requires JS) */
+.stagger-animation > * {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.5s ease-out, transform 0.5s ease-out;
+}
+
+
+/* --- Responsive Design Adjustments --- */
+@media (max-width: 992px) {
+    nav#main-nav ul {
+        gap: 1rem; /* Smaller gap for nav items */
+    }
+}
+
 @media (max-width: 768px) {
-    h1 {
-        font-size: 2em;
+    h1 { font-size: 2.2rem; }
+    header h2 { font-size: 1.3rem; }
+    h2 { font-size: 1.9rem; }
+    h3 { font-size: 1.5rem; }
+
+    nav#main-nav ul {
+        justify-content: space-around; /* Better distribution on smaller screens */
+        gap: 0.5rem;
+    }
+    nav#main-nav ul li a {
+        font-size: 0.9rem;
+        padding: 0.5rem 0.1rem;
     }
 
-    h2 {
-        font-size: 1.8em;
+    .content-section {
+        padding: 2rem 4%;
     }
 
-    h3 {
-        font-size: 1.4em;
-    }
-
-    section {
-        padding: 30px 4%;
-    }
-
-    ul li {
-        padding-left: 20px;
+    .projects-grid {
+        grid-template-columns: 1fr; /* Stack project cards */
+        gap: 1.5rem;
     }
 }
 
 @media (max-width: 480px) {
-    h1 {
-        font-size: 1.6em;
+    html { font-size: 14px; } /* Adjust base font for very small screens */
+    h1 { font-size: 1.8rem; }
+    header h2 { font-size: 1.1rem; }
+    h2 { font-size: 1.6rem; }
+    h3 { font-size: 1.3rem; }
+
+    .tagline { font-size: 0.9rem; }
+
+    .call-to-action-link a,
+    .project-links a:not(.repo-link-style a) {
+        padding: 0.6em 1.2em;
+        font-size: 0.9rem;
     }
 
-    h2 {
-        font-size: 1.5em;
+    nav#main-nav {
+        padding: 0.5rem 4%;
     }
-
-    h3 {
-        font-size: 1.2em;
+    nav#main-nav ul li a {
+        font-size: 0.85rem;
     }
-
-    section {
-        padding: 20px 3%;
+    .back-to-top {
+        width: 40px;
+        height: 40px;
+        font-size: 1.3rem;
+        bottom: 15px;
+        right: 15px;
     }
 }
+
+/* Add this to your script tag in HTML for the back-to-top button */
+/*
+<script>
+    // ... (existing script for year)
+
+    const backToTopButton = document.querySelector('.back-to-top');
+    window.addEventListener('scroll', () => {
+        if (window.pageYOffset > 300) { // Show button after scrolling 300px
+            backToTopButton.classList.add('visible');
+        } else {
+            backToTopButton.classList.remove('visible');
+        }
+    });
+
+    // Intersection Observer for fade-in sections (example)
+    const sections = document.querySelectorAll('.fade-in-section'); // Add this class to sections you want to animate
+    const observer = new IntersectionObserver(entries => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                entry.target.classList.add('is-visible');
+                observer.unobserve(entry.target); // Optional: stop observing after animation
+            }
+        });
+    }, { threshold: 0.1 }); // Adjust threshold as needed
+
+    sections.forEach(section => {
+        observer.observe(section);
+    });
+
+    // Stagger animation (example) - more complex, might need individual item targeting
+    // document.querySelectorAll('.stagger-animation').forEach(container => {
+    //     Array.from(container.children).forEach((child, index) => {
+    //         child.style.transitionDelay = `${index * 0.1}s`; // Apply delay
+    //         // Trigger visibility with Intersection Observer similar to above
+    //     });
+    // });
+</script>
+*/
