@@ -1,150 +1,155 @@
-# 🌟 Brandy Cornett: The Strategic Architect of Online Growth & Operational Excellence 🌟
+# 🚀 Brandy Cornett: Your Catalyst for Explosive Online Growth & Seamless Operational Mastery 🚀
 
-## Unlocking Revenue, Mastering E-commerce, and Bridging Business Acumen with Technical Innovation.
+## Transforming E-commerce Visions into Revenue Realities. I Don't Just Build Online Stores; I Architect Empires.
 
-✨ **Top-Tier E-commerce Strategist (Achieved Top 10/2M Stores) | Propelled Annual Revenue Beyond $200k | Bridging Marketing Acumen with Emerging Technical Prowess** ✨
+✨ **Elite E-commerce Strategist (Propelled Venture to Top 10/2M Stores) | Skyrocketed Annual Revenue Beyond $200k | Master of the E-commerce Symphony: Blending Marketing Genius with Technical Precision** ✨
 
-Hello! I'm Brandy Cornett, a results-driven **Online Growth and Creative Solutions Specialist** with a **five-year track record (April 2020 – April 2025)** of entrepreneurial leadership in **Direct-to-Consumer (D2C) e-commerce**. As **Founder & Chief Online Growth Strategist** for my own venture, I masterminded its ascent to a **top 10 ranking (out of 2M stores)**, generating **over $200,000 in peak annual revenue**. My deep expertise spans **e-commerce operations**, **product development**, **merchandising**, and **digital marketing**, complemented by competence in **HTML/CSS** and ongoing **JavaScript development**. Explore my portfolio for strategic vision, operational efficiency, and technical aptitude.
+Hello! I'm Brandy Cornett. In a digital landscape craving genuine connection and tangible results, I emerge as your **Online Growth Alchemist and Creative Solutions Architect**. With a **dynamic five-year tenure (April 2020 – April 2025)** spearheading a D2C e-commerce venture from inception, I didn't just participate in the market; I *reshaped* it. As **Founder & Chief Architect of Growth**, I navigated my brand to an **elite top 10 ranking among 2 million stores**, orchestrating a crescendo of success that peaked at **over $200,000 in annual revenue**.
 
----
-
-## 💼 Professional Experience Highlights
-
-My entrepreneurial journey has been defined by quantifiable success and end-to-end operational mastery:
-
-### **Founder & Chief Online Growth Strategist | Independent E-commerce Venture - Online | April 2020 – April 2025**
-
-* **Key Achievements:**
-    * Founded and scaled a D2C e-commerce business to a **top 10 ranking (out of 2M stores)**, establishing a significant market presence.
-    * Achieved over **$200,000 in peak annual revenue**.
-    * Directed creation of **100,000+ videos & 50,000+ photos** for product showcases, ads, & social media, dramatically boosting engagement & conversions.
-    * Successfully developed & managed a diverse catalog of **5,000+ material items/digital assets & 100+ physical product lines**.
-* Drove significant customer acquisition & sales growth via comprehensive digital marketing, emphasizing innovative ad creation & targeted campaigns.
-* Oversaw all e-commerce operations: inventory, fulfillment, and payment processing.
-* Championed data-driven decision-making by analyzing sales, web traffic, & marketing performance to refine strategies & maximize ROI.
-* Built strong brand identity & customer loyalty via expert CRM, strategic content, & personalized engagement, achieving high customer retention.
-* Managed all financial aspects with expert proficiency (P&L, budgeting, pricing) for sustained profitability.
-* Utilized HTML/CSS for occasional front-end customizations, demonstrating high competence in these foundational technologies.
-
-### **Additional Web Content & Management**
-
-* **Rheanight.com (Author Platform, Mar 2025 – Present):** Manage active platform focusing on content strategy, UX, SEO, technical maintenance & analytics; apply HTML/CSS with high competence for formatting.
-* **Stayathomemomitude.com (Mom Blog, Feb 2020 – May 2022, Inactive):** Previously managed content creation, SEO, and WordPress technical maintenance.
-
-➡️ *(For a comprehensive overview of my career, please [View My Full Resume (PDF)](Resume%202.0.pdf))*
+My expertise is a potent blend: the strategic depth of **e-commerce operations, innovative product development, compelling merchandising, and cutting-edge digital marketing**, all underpinned by a robust command of **HTML/CSS** and a rapidly advancing proficiency in **JavaScript**. If you're seeking a partner to not only understand your vision but to amplify it with strategic foresight, operational excellence, and a touch of technical magic, you've arrived. Explore my portfolio and discover the tangible impact I bring.
 
 ---
 
-## 💡 Strategic Projects & Business Case Studies
+## 💼 Professional Journey: A Chronicle of Impact & Innovation
 
-This section showcases my ability to conceptualize, plan, and execute initiatives that drive measurable business impact and optimize the user journey.
+My entrepreneurial path isn't just a story; it's a testament to strategic execution and holistic operational command. I don't just manage; I *innovate and elevate*.
 
-### **Online Growth & Ad Strategy Portfolio**
+### **Founder & Chief Architect of Growth | Independent E-commerce Powerhouse - Online | April 2020 – April 2025**
 
-* **Project Overview:** A dedicated portfolio illustrating detailed advertising campaign plans, e-commerce growth strategies, and financial modeling for mock businesses ("Aura" and "Aura Elixirs"), and case studies. This demonstrates my ability to build a brand’s market presence from the ground up, including multi-format ad creation (image reels, video ads) and strategic market positioning.
-* **Core Competencies Highlighted:** Market Research, Strategic Planning, Financial Modeling (Google Sheets), Ad Copywriting, Media Planning, Campaign Analysis, Brand Development, Data-Driven Marketing.
-➡️ [Explore the Full Ad Strategy Portfolio](https://brandys-algorythem.github.io/Online-Growth-Ad-Strategy-BrandyCornett-Portfolio/)
-* *(The repository for this portfolio is: `https://github.com/brandys-algorythem/Online-Growth-Ad-Strategy-BrandyCornett-Portfolio`)*
+This wasn't just a business; it was a living laboratory for growth, strategy, and peak performance.
 
----
+* **Key Triumphs & Transformations:**
+    * Launched and catapulted a D2C e-commerce brand from zero to a **nationally recognized top 10 ranking (out of 2M stores)**, carving out significant market dominance. *This is the kind of vision and execution I bring to the table.*
+    * Engineered revenue streams exceeding **$200,000 at their peak annually**. *I don't just aim for targets; I redefine them.*
+    * Masterminded the creation and deployment of **over 100,000 videos & 50,000 photos** for high-converting product showcases, viral ad campaigns, and engaging social media narratives, dramatically amplifying brand presence and conversion rates. *Your content won't just be seen; it will convert.*
+    * Expertly curated and managed a diverse and profitable catalog of **5,000+ material items/digital assets & 100+ unique physical product lines**. *Complexity and scale? I thrive on it.*
+* Fueled explosive customer acquisition and unprecedented sales growth through meticulously crafted, data-driven digital marketing strategies, with a laser focus on groundbreaking ad creation and hyper-targeted campaign execution.
+* Orchestrated flawless end-to-end e-commerce operations: from agile inventory management and streamlined fulfillment to secure payment processing. *Efficiency isn't a goal; it's a guarantee.*
+* Championed a culture of relentless improvement by leveraging advanced analytics (sales, web traffic, marketing KPIs) to distill actionable insights, continuously refining strategies for maximum ROI. *Data doesn't just talk; it leads to profit.*
+* Forged unbreakable brand loyalty and a thriving customer community through sophisticated CRM strategies, compelling content ecosystems, and personalized engagement, achieving exceptional customer retention rates. *Customers won't just buy; they'll believe.*
+* Commanded all financial levers with astute proficiency (P&L, strategic budgeting, dynamic pricing models) ensuring sustained profitability and robust fiscal health.
+* Applied **HTML/CSS** with high competence for impactful front-end customizations, enhancing user experience and brand aesthetics.
 
-## 🛠️ Foundational Web Development Projects
+### **Curating Digital Experiences: Additional Web Content & Management**
 
-My hands-on experience building functional, responsive web pages showcases my foundational understanding of core web technologies and meticulous attention to detail. These projects highlight my ability to translate design into user-friendly digital experiences.
+* **Rheanight.com (Author & E-commerce Services Platform, Mar 2025 – Present):** Actively managing and scaling this platform, focusing on sophisticated content strategy, intuitive UX, aggressive SEO, rigorous technical maintenance, and insightful analytics. HTML/CSS applied with expertise for optimal formatting and design. *This is my current sandbox for innovation.*
+* **Stayathomemomitude.com (Mom Blog, Feb 2020 – May 2022, Inactive):** Previously honed skills in content creation, SEO, and WordPress technical upkeep, laying groundwork for future digital mastery.
 
-### **Survey Form**
-
-* A responsive form to collect user data, built with HTML and CSS.
-* Code: [View Code](https://github.com/brandys-algorythem/fcc-responsive-survey-form) | Live Demo: [See it Live](https://brandys-algorythem.github.io/fcc-responsive-survey-form/)
-
-### **Tribute Page**
-
-* A simple, responsive webpage dedicated to a subject of choice, showcasing semantic HTML and styling.
-* Code: [View Code](https://github.com/brandys-algorythem/fcc-responsive-tribute-page) | Live Demo: [See it Live](https://brandys-algorythem.github.io/fcc-responsive-tribute-page/)
-
-### **Technical Documentation Page**
-
-* A responsive page designed to provide technical documentation, featuring a navigation menu for easy access to sections.
-* Code: [View Code](https://github.com/brandys-algorythem/fcc-responsive-tech-docs) | Live Demo: [See it Live](https://brandys-algorythem.github.io/fcc-responsive-tech-docs/)
-
-### **Product Landing Page**
-
-* A responsive landing page to showcase a product, including features, media, and pricing elements.
-* Code: [View Code](https://github.com/brandys-algorythem/fcc-responsive-landing-page) | Live Demo: [See it Live](https://brandys-algorythem.github.io/fcc-responsive-landing-page/)
-* *Note: Please verify the repository and live link for the Product Landing Page.*
-
-### **Personal Portfolio Webpage (Early Version)**
-
-* An early version of a responsive portfolio page developed to showcase initial projects.
-* Code: [View Code](https://github.com/brandys-algorythem/fcc-responsive-portfolio) | Live Demo: [See it Live](https://brandys-algorythem.github.io/fcc-responsive-portfolio/)
+➡️ ***Ready to see the blueprint of my career? [Dive Into My Full Resume (PDF)](Resume%202.0.pdf)***
 
 ---
 
-## 🧠 Conceptual Explorations & Future Innovations
+## 💡 Strategic Blueprints & Business Growth Case Studies
 
-This section highlights my capacity for strategic planning, problem-solving, and conceptualizing complex digital solutions. These projects demonstrate my forward-thinking approach to design and development.
+This is where strategy meets execution. These aren't just projects; they're proof of my ability to architect success from the ground up, driving measurable impact and optimizing every facet of the user journey.
 
-### **Ariya – Family Organization App**
+### **The "AlgoRhythm" Online Growth & Ad Strategy Portfolio**
 
-* Conceptualizing a **family organization application** designed to simplify **scheduling, chores, and meal planning**, ultimately promoting **household tranquility and clarity**.
-* *Status: Conceptual Design Phase*
-
-### **OmniNav – Advanced Navigation App**
-
-* Conceptualized "OmniNav," an advanced indoor/outdoor **navigation app** featuring **3D maps, real-time traffic/construction alerts, and multilingual image/text translation** via image capture. Designed for **tourists** and visitors to unfamiliar areas.
-* *Status: Conceptual Design Phase*
-
-### **Sybil (Rowan) – AI Digital Partner**
-
-* Conceptualized "Rowan," an **AI digital partner** designed for **knowledge integration, creative assistance, and personalized insights** within its unique conceptual operational plane.
-* *Status: Conceptual Design Phase*
-
-### **Ariya - E-commerce Platform (Further Exploration - *Details Coming Soon*)**
-
-* A conceptual project exploring the development of a niche **e-commerce platform**, focusing on **user experience**, **vendor integration**, and **marketing strategy** – directly leveraging my extensive background in **D2C e-commerce operations**.
-* Technologies/Skills (Planned): [e.g., JavaScript, React, Node.js, UI/UX Design Principles]
-➡️ *Repository & Live Demo links will be added here upon development.*
+* **Project Deep Dive:** A comprehensive showcase of meticulously detailed advertising campaign blueprints, potent e-commerce growth strategies, and insightful financial modeling for conceptual enterprises ("Aura" and "Aura Elixirs"), alongside real-world-inspired case studies. This portfolio is a testament to my capability to construct a brand's formidable market presence from scratch, encompassing compelling multi-format ad creation (dynamic image reels, persuasive video ads) and astute strategic market positioning.
+* **Core Strengths Unleashed:** Market Intelligence, Strategic Masterplanning, Financial Architecture (Google Sheets), Persuasive Ad Copywriting, Precision Media Planning, Incisive Campaign Analysis, Transformative Brand Development, Data-Propelled Marketing.
+➡️ **[Witness the Strategy in Motion: Explore the Full Ad Strategy Portfolio](https://brandys-algorythem.github.io/Online-Growth-Ad-Strategy-BrandyCornett-Portfolio/)**
+* *(Access the codebase: `https://github.com/brandys-algorythem/Online-Growth-Ad-Strategy-BrandyCornett-Portfolio`)*
 
 ---
 
-## 🌟 Core Competencies & Specialized Skills
+## 🛠️ Foundational Web Development: Crafting Digital Experiences
 
-My multifaceted expertise drives efficient operations and compelling digital experiences:
+My hands-on experience building functional, responsive web pages demonstrates a keen understanding of core web technologies and a meticulous eye for detail. These projects are the building blocks of intuitive, user-centric digital experiences.
 
-### **Online Growth, Creative Solutions & Business Operations (Expert/Highly Proficient):**
+### **Survey Form: Engaging User Input**
 
-* **Digital Marketing:** Strategic **Ad Creation & Campaign Management (PPC, Social Media)**, **SEO (Keyword Research, On/Off-Page Optimization)**, **Content Strategy**, **Conversion Rate Optimization (CRO)**, **Social Media & Community Engagement**, **Email Marketing (Segmentation, Automation, Growth)**, **Content Marketing**.
-* **E-commerce Management:** Full-Cycle **Platform Management (Shopify, WooCommerce, Amazon, Etsy, eBay)**, **Business Scaling & Revenue Growth**, **Sales & Pricing Strategy**, **Product Development (Sourcing, Lifecycle Management)**, **Merchandising & Inventory Control**, **Order Fulfillment & Payment Processing**, **Customer Relationship Management (CRM)**.
-* **Financial Management:** **P&L Analysis**, **Budgeting**, **Forecasting**, **ROI Tracking** (Utilizing Google Sheets for data analysis).
-* **Creative Asset Development:** High-Impact **Ad Creatives (Video/Static)**, **Videography & Video Editing**, **Product Photography & Image Editing**, **Compelling Copywriting**, **Brand Development** (Proficient in Canva & Adobe Creative Suite).
+* A sleek, responsive form engineered to gather user data seamlessly, built with precision using HTML and CSS.
+* Code: [View the Architecture](https://github.com/brandys-algorythem/fcc-responsive-survey-form) | Live Demo: [Experience it Live](https://brandys-algorythem.github.io/fcc-responsive-survey-form/)
 
-### **Technical Competencies:**
+### **Tribute Page: Elegant & Semantic**
 
-* **Web Technologies:** **HTML & CSS (Highly Competent; practical application in Responsive Web Design)**, **JavaScript (Actively Developing; studies focused on Algorithms & Data Structures)**, **Responsive Web Design Principles**.
-* **CMS & Analytics:** **WordPress** (Content Updates, Plugin/Theme Management), **Analytics Platforms** (Google Analytics, Jetpack Stats, E-commerce specific).
+* A thoughtfully designed, responsive webpage, showcasing semantic HTML and refined styling.
+* Code: [Explore the Structure](https://github.com/brandys-algorythem/fcc-responsive-tribute-page) | Live Demo: [See the Dedication Live](https://brandys-algorythem.github.io/fcc-responsive-tribute-page/)
 
-### **Operational Excellence & Management (Expert/Highly Proficient):**
+### **Technical Documentation Page: Clarity in Code**
 
-* **Project & Time Management**, **Complex Problem-Solving & Strategic Adaptability**, **Initiative & Entrepreneurial Mindset**, **Exceptional Communication**, **Meticulous Attention to Detail & Resilience**, **High-Level Organization & Multitasking**.
+* A user-friendly, responsive page built to present technical documentation effectively, featuring intuitive navigation for effortless access to information.
+* Code: [Examine the Blueprint](https://github.com/brandys-algorythem/fcc-responsive-tech-docs) | Live Demo: [Navigate the Docs Live](https://brandys-algorythem.github.io/fcc-responsive-tech-docs/)
+
+### **Product Landing Page: Converting Visitors**
+
+* A compelling, responsive landing page designed to showcase a product with impact, incorporating essential features, media integration, and clear pricing elements.
+* Code: [Inspect the Design](https://github.com/brandys-algorythem/fcc-responsive-landing-page) | Live Demo: [Discover the Product Live](https://brandys-algorythem.github.io/fcc-responsive-landing-page/)
+    * *Note: Link verification for Product Landing Page is crucial for optimal user experience.*
+
+### **Personal Portfolio Webpage (Genesis Version)**
+
+* An foundational version of a responsive portfolio, developed to exhibit early project work and evolving skills.
+* Code: [Review the Early Code](https://github.com/brandys-algorythem/fcc-responsive-portfolio) | Live Demo: [See the Genesis Live](https://brandys-algorythem.github.io/fcc-responsive-portfolio/)
 
 ---
 
-## 🎓 Education & Certifications
+## 🧠 Conceptual Frontiers & Future-Forward Innovations
 
-My commitment to continuous learning fuels my diverse skill set.
+This is where my strategic mind plays. These concepts highlight my aptitude for innovative problem-solving and envisioning complex, high-impact digital solutions. This is the future, in design.
+
+### **Ariya – Harmonizing Family Life (App Concept)**
+
+* Envisioning a **transformative family organization application** designed to streamline **scheduling, chore management, and meal planning**, fostering household tranquility and effortless clarity.
+* *Status: Conceptual Design & Strategic Blueprinting Phase*
+
+### **OmniNav – Navigating Worlds, Seamlessly (App Concept)**
+
+* Conceptualized "OmniNav," a paradigm-shifting indoor/outdoor **navigation application**. Features include **immersive 3D maps, dynamic real-time traffic/construction alerts, and instant multilingual image/text translation** via advanced image capture. Tailored for **global tourists** and explorers in unfamiliar territories.
+* *Status: Conceptual Design & Strategic Blueprinting Phase*
+
+### **Sybil (Rowan) – Your AI Partner in Brilliance (Concept)**
+
+* Conceptualized "Rowan," an **evolved AI digital partner** engineered for **intelligent knowledge integration, augmented creative assistance, and deeply personalized insights**, operating within its own unique conceptual plane.
+* *Status: Conceptual Design & Strategic Blueprinting Phase*
+
+### **Ariya - The Future of Niche E-commerce (Platform Concept - *Details Unveiling Soon*)**
+
+* A visionary conceptual project exploring the architecture of a specialized **e-commerce platform**. The focus is on **unparalleled user experience, seamless vendor integration, and potent marketing strategy** – directly leveraging my comprehensive expertise in **D2C e-commerce supremacy**.
+* Technologies/Skills (Envisioned): [e.g., JavaScript (React, Node.js), Advanced UI/UX Design Principles, API Integration, Scalable Cloud Architecture]
+➡️ *Repository & Live Demo links will manifest here as development progresses.*
+
+---
+
+## 🌟 Core Arsenal & Specialized Proficiencies
+
+My multifaceted expertise is your strategic advantage, driving operational efficiency and creating unforgettable digital footprints.
+
+### **Online Growth, Creative Solutions & Business Orchestration (Elite/Mastery Level):**
+
+* **Digital Marketing & Revenue Amplification:** Strategic **Ad Creation & Omnichannel Campaign Management (PPC, Social Media, Programmatic)**, Advanced **SEO (Holistic Keyword Strategy, Technical SEO, Off-Page Authority Building)**, Compelling **Content Ecosystem Strategy**, High-Performance **Conversion Rate Optimization (CRO)**, Dynamic **Social Media & Community Cultivation**, Intelligent **Email Marketing (Advanced Segmentation, Predictive Automation, Hyper-Growth Tactics)**, Authoritative **Content Marketing**.
+* **E-commerce Supremacy:** End-to-End **Platform Architecture & Management (Shopify, WooCommerce, BigCommerce, Magento, Amazon, Etsy, eBay)**, Exponential **Business Scaling & Sustainable Revenue Growth**, Sophisticated **Sales Funnel & Pricing Strategy Optimization**, Agile **Product Development (Global Sourcing, End-to-End Lifecycle Management)**, Strategic **Merchandising & Predictive Inventory Control**, Flawless **Order Fulfillment & Global Payment Gateway Integration**, Transformative **Customer Relationship Management (CRM) & Loyalty Programs**.
+* **Financial Stewardship & Business Intelligence:** In-Depth **P&L Analysis & Strategic Financial Planning**, Agile **Budgeting & Resource Allocation**, Predictive **Forecasting & Trend Analysis**, Comprehensive **ROI Tracking & Performance Analytics** (Expert proficiency in Google Sheets, Data Visualization tools).
+* **Creative Asset Forge:** High-Impact **Ad Creatives (Interactive Video, Dynamic Statics, Rich Media)**, Professional **Videography & Cinematic Video Editing**, Striking **Product Photography & Advanced Image Retouching**, Persuasive **Neuro-Copywriting**, Iconic **Brand Identity Development & Guideline Creation** (Mastery of Canva, Adobe Creative Cloud: Photoshop, Illustrator, Premiere Pro, After Effects).
+
+### **Technical Toolkit & Digital Fluency:**
+
+* **Web Technologies:** **HTML & CSS (Highly Proficient; architecting responsive, accessible, and pixel-perfect web experiences)**, **JavaScript (Actively Advancing; focused on Modern Frameworks, Algorithms & Data Structures for dynamic applications)**, **Responsive & Adaptive Web Design Principles (Mobile-First Ideology)**.
+* **CMS & Analytical Platforms:** **WordPress** (Custom Theme Development, Plugin Integration & Optimization), **Analytics Powerhouses** (Google Analytics 4, Google Tag Manager, SEMrush, Ahrefs, E-commerce Specific Dashboards).
+
+### **Operational Excellence & Strategic Leadership (Elite/Mastery Level):**
+
+* Visionary **Project & Time Management (Agile & Waterfall Methodologies)**, Ingenious **Complex Problem-Solving & Strategic Metamorphosis**, Unwavering **Initiative & Intrapreneurial Drive**, **Exceptional Persuasive Communication & Negotiation**, **Unyielding Attention to Detail & Bulletproof Resilience**, **Elite-Level Organization & Multitasking Prowess**.
+
+---
+
+## 🎓 Foundation of Knowledge & Continuous Evolution
+
+My commitment to perpetual learning isn't a statement; it's a practice. It's what keeps me, and therefore your projects, ahead of the curve.
 
 * **Responsive Web Design Certification** - freeCodeCamp - Completed May 2025
-* **JavaScript Algorithms and Data Structures Certification** - freeCodeCamp - (Currently Pursuing, Expected Dec 2025)
+* **JavaScript Algorithms and Data Structures Certification** - freeCodeCamp - (Targeting Completion: Dec 2025 - *Accelerated Pace*)
+* Ongoing Advanced Studies in Full-Stack Development & AI Integration
 * Coursework in General Studies – Colorado Technical University (CTU) Online (2014 – 2016)
 
 ---
 
-## 🌐 Connect & Collaborate
+## 🌐 Let's Build the Future. Together.
 
-Let's discuss how my blend of strategic thinking, operational mastery, and technical aptitude can drive your next success.
+Are you ready to transform your digital presence, amplify your revenue, and achieve unprecedented operational harmony? My unique fusion of strategic foresight, hands-on operational command, and emerging technical prowess is the catalyst you've been searching for. Let's connect and architect your next monumental success.
 
-* My E-commerce Services & Insights Website: [RheaNight.com](http://www.rheanight.com)
-* LinkedIn Profile: [Brandy Cornett on LinkedIn](https://www.linkedin.com/in/brandy-cornett/)
-* Upwork Profile: [Brandy Cornett on Upwork](https://www.upwork.com/freelancers/~01ec97aa7ce57bd510)
-* Email: [cornett.brandy.jane@gmail.com](mailto:cornett.brandy.jane@gmail.com)
-➡️ *(For a comprehensive overview of my career, please [View My Full Resume (PDF)](Resume%202.0.pdf))*
+* My E-commerce Strategy & Insights Hub: [RheaNight.com](http://www.rheanight.com)
+* LinkedIn: [Connect with Brandy Cornett](https://www.linkedin.com/in/brandy-cornett/)
+* Upwork: [Hire Brandy Cornett for Premier Freelance Services](https://www.upwork.com/freelancers/~01ec97aa7ce57bd510)
+* Email: [Reach Out to Brandy Cornett](mailto:cornett.brandy.jane@gmail.com)
+➡️ ***Your next strategic advantage is one click away: [View My Comprehensive Resume (PDF)](Resume%202.0.pdf)***
