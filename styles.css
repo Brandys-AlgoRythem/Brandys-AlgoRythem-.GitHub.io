@@ -1,0 +1,231 @@
+/* General Body and Page Layout */
+body {
+    font-family: 'Roboto', sans-serif; /* Primary Body Font */
+    background-color: #2C3E50; /* Primary Background: Dark Charcoal/Deep Navy */
+    color: #BDC3C7; /* Body Text Color: Light Gray */
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    scroll-behavior: smooth; /* Smooth scrolling for navigation */
+}
+
+/* Global Styles for Sections */
+section {
+    padding: 40px 5%; /* Ample padding for sections */
+    max-width: 1200px; /* Max width for content */
+    margin: 0 auto; /* Center content */
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+    font-family: 'Montserrat', sans-serif; /* Heading Font */
+    color: #ECF0F1; /* Headings Color: Very Light Gray / Off-White */
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-weight: 600; /* Slightly bolder for impact */
+}
+
+h1 {
+    font-size: 2.8em;
+    text-align: center;
+    margin-bottom: 15px;
+    color: #ECF0F1; /* Ensuring headline matches heading color */
+}
+
+h2 {
+    font-size: 2.2em;
+    border-bottom: 2px solid #4A6278; /* Subtle separator under h2 */
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+}
+
+h3 {
+    font-size: 1.6em;
+    margin-bottom: 15px;
+}
+
+h4 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+/* Header Specific Styles */
+header {
+    background-color: #2C3E50; /* Same as body background for seamlessness */
+    padding: 50px 5%;
+    text-align: center;
+    color: #ECF0F1;
+}
+
+header h2 {
+    font-size: 1.8em;
+    font-weight: 400;
+    border-bottom: none; /* No border for main header H2 */
+    margin-bottom: 10px;
+}
+
+.tagline {
+    font-size: 1.1em;
+    font-weight: 300;
+    color: #BDC3C7;
+    margin-top: 20px;
+    line-height: 1.4;
+}
+
+/* Paragraphs */
+p {
+    margin-bottom: 1em;
+}
+
+/* Links and Buttons (Accent Color) */
+a {
+    color: #1ABC9C; /* Accent Color: Turquoise */
+    text-decoration: none;
+    transition: color 0.3s ease-in-out, text-shadow 0.3s ease-in-out; /* Smooth transition for hover */
+}
+
+a:hover {
+    color: #FFD700; /* Gold on hover for a dynamic feel */
+    text-shadow: 0 0 8px rgba(255, 215, 0, 0.5); /* Soft shadow on hover */
+}
+
+.project-links a, .call-to-action-link a {
+    display: inline-block;
+    padding: 8px 15px;
+    background-color: #1ABC9C; /* Accent Color */
+    color: #ECF0F1; /* Text on accent buttons */
+    border-radius: 5px;
+    transition: background-color 0.3s ease-in-out, transform 0.2s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.project-links a:hover, .call-to-action-link a:hover {
+    background-color: #FFD700; /* Gold on hover */
+    color: #2C3E50; /* Dark text on gold hover */
+    transform: translateY(-2px); /* Subtle lift effect */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+.repo-link a {
+    font-size: 0.9em;
+    color: #BDC3C7; /* Lighter color for repo links */
+}
+
+.repo-link a:hover {
+    color: #1ABC9C; /* Turquoise on hover */
+    text-shadow: none;
+}
+
+
+/* Lists */
+ul {
+    list-style: none; /* Remove default bullet points */
+    padding-left: 0;
+    margin-bottom: 1.5em;
+}
+
+ul li {
+    position: relative;
+    padding-left: 25px; /* Space for custom bullet */
+    margin-bottom: 0.8em;
+}
+
+ul li::before {
+    content: '•'; /* Custom bullet point */
+    color: #1ABC9C; /* Accent color for bullets */
+    position: absolute;
+    left: 0;
+    font-size: 1.2em;
+    line-height: 1;
+}
+
+/* Horizontal Rule Separator */
+hr {
+    border: none;
+    border-top: 1px solid #4A6278; /* Subtle Element: Slightly Lighter Dark Gray */
+    margin: 50px auto;
+    width: 80%; /* Control width */
+}
+
+/* Project Cards for Foundational and Conceptual Projects */
+.project-card {
+    background-color: #34495E; /* Slightly lighter background for cards */
+    padding: 25px;
+    border-radius: 8px;
+    margin-bottom: 30px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* Soft shadow for depth */
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out; /* Smooth transition */
+}
+
+.project-card:hover {
+    transform: translateY(-5px); /* Subtle lift on hover */
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3); /* Enhanced shadow on hover */
+}
+
+.project-card h3 {
+    color: #ECF0F1; /* Ensure project titles are bright */
+    margin-top: 0;
+}
+
+.project-card ul {
+    margin-top: 10px;
+}
+
+.project-card ul li {
+    font-size: 0.95em;
+}
+
+/* Specific styling for conceptual projects (optional distinction) */
+.project-card.conceptual {
+    border: 1px dashed #4A6278; /* Dashed border for conceptual projects */
+}
+
+/* Footer */
+footer {
+    background-color: #22303E; /* Even darker shade for footer */
+    color: #BDC3C7;
+    text-align: center;
+    padding: 20px;
+    font-size: 0.9em;
+    border-top: 1px solid #4A6278; /* Consistent top border */
+}
+
+/* Responsive Design Adjustments */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2em;
+    }
+
+    h2 {
+        font-size: 1.8em;
+    }
+
+    h3 {
+        font-size: 1.4em;
+    }
+
+    section {
+        padding: 30px 4%;
+    }
+
+    ul li {
+        padding-left: 20px;
+    }
+}
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 1.6em;
+    }
+
+    h2 {
+        font-size: 1.5em;
+    }
+
+    h3 {
+        font-size: 1.2em;
+    }
+
+    section {
+        padding: 20px 3%;
+    }
+}
