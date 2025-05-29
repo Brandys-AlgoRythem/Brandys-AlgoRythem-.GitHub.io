@@ -23,7 +23,7 @@ My expertise is your blueprint for scaling: a potent blend of strategic **e-comm
 
 ## 🏆 Signature Achievement: Building an E-commerce Powerhouse
 
-**Founder & Chief Architect of Growth** | Independent E-commerce Venture | Apr 2020 – Apr 2025
+**Founder & Chief Architect of Growth** | Independent E-commerce Venture | Apr 2020 – Apr 2025 | **Successfully Acquisitioned**
 
 * Catapulted a D2C brand from zero to a **Top 10 ranking (out of 2M stores)**.
 * Engineered **$200,000+ in peak annual revenue**.
@@ -32,7 +32,7 @@ My expertise is your blueprint for scaling: a potent blend of strategic **e-comm
 * Achieved sustained profitability through meticulous **P&L management, budgeting, and data-driven strategies**.
 * Successfully guided the venture to acquisition, validating its market value and strategic execution.
 
-➡️ ***For granular details: [Dive Into My Full Resume (PDF)](Your_Resume_Link_Here.pdf)*** *(Ensure path is correct)*
+➡️ ***For granular details: [Dive Into My Full Resume (PDF)](Resume 2.1.pdf)*** 
 
 ---
 
