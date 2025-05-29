@@ -109,9 +109,9 @@ Ready to transform your digital presence from a solo act into a full-blown chart
 
 Let's connect and orchestrate your brand's crescendo to success!
 
-* **My E-commerce Stage:** [RheaNight.com](http://www.rheanight.com)
-* **LinkedIn Green Room:** [Connect with Brandy Cornett](https://www.linkedin.com/in/brandy-cornett/)
-* **Upwork Agency:** [Hire Brandy Cornett on Upwork](https://www.upwork.com/freelancers/~01ec97aa7ce57bd510)
-* **Direct Line (Email):** [Reach Out to Brandy Cornett](mailto:cornett.brandy.jane@gmail.com)
+* **My Creative Corner:** [RheaNight.com](http://www.rheanight.com)
+* **LinkedIn Profile:** [Connect with Brandy Cornett](https://www.linkedin.com/in/brandy-cornett/)
+* **Upwork Profile:** [Hire Brandy Cornett on Upwork](https://www.upwork.com/freelancers/~01ec97aa7ce57bd510)
+* **Direct Line(Email):** [Reach Out to Brandy Cornett](mailto:cornett.brandy.jane@gmail.com)
 
 I'm eager to hear your vision and help you make some beautiful music in the e-commerce world! 🚀
