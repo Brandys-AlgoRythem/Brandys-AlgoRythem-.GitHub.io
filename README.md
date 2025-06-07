@@ -19,36 +19,59 @@ If you're seeking a partner to not just build and optimize, but to truly *scale*
 These are the key sections of my growth orchestra, each playing a vital role in composing your success:
 
 * **D2C E-commerce Leadership & Operations (The Conductor's Podium):**
-    * Full-cycle strategic symphonies & flawless execution from overture to finale.
-    * Platform mastery: **Shopify, BigCommerce, WooCommerce** – conducting with precision.
-    * Harmonizing **P&L oversight** with dynamic **business scaling** strategies.
-    * Expert product lifecycle management for vast repertoires (over **5,000+ SKUs**).
-    * Dynamic inventory & merchandising rhythms, ensuring every product performs.
-    * Seamless order fulfillment, the perfect logistic cadence.
+    * Full-cycle strategic symphonies & flawless execution from overture to finale.
+    * Platform mastery: **Shopify, BigCommerce, WooCommerce** – conducting with precision.
+    * Harmonizing **P&L oversight** with dynamic **business scaling** strategies.
+    * Expert product lifecycle management for vast repertoires (over **5,000+ SKUs**).
+    * Dynamic inventory & merchandising rhythms, ensuring every product performs.
+    * Seamless order fulfillment, the perfect logistic cadence.
 
 * **Digital Marketing & Growth (The Amplifiers & Crescendo Builders):**
-    * Driving powerful customer acquisition & **revenue growth** that resonates.
-    * Advanced **SEO** (technical, on-page, off-page) – making you the top note in search results.
-    * Dynamic **PPC/Ad Campaign Management** (composing over **150,000+ creative assets**) for maximum impact.
-    * **CRO (Conversion Rate Optimization)** – turning listeners into loyal fans.
-    * Strategic content that tells your brand's unique story.
-    * Email automation sequences that build powerful engagement.
-    * Vibrant social media engagement that gets the crowd roaring.
-    * Insightful **e-commerce analytics (GA4)** – understanding the rhythm of your audience.
+    * Driving powerful customer acquisition & **revenue growth** that resonates.
+    * Advanced **SEO** (technical, on-page, off-page) – making you the top note in search results.
+    * Dynamic **PPC/Ad Campaign Management** (composing over **150,000+ creative assets**) for maximum impact.
+    * **CRO (Conversion Rate Optimization)** – turning listeners into loyal fans.
+    * Strategic content that tells your brand's unique story.
+    * Email automation sequences that build powerful engagement.
+    * Vibrant social media engagement that gets the crowd roaring.
+    * Insightful **e-commerce analytics (GA4)** – understanding the rhythm of your audience.
 
 * **Creative & Technical Acumen (The Sound & Stage Design):**
-    * Developing resonant brand identities that truly sing.
-    * High-impact **ad creative** (video/photo) that captures attention.
-    * Compelling **copywriting** with lyrics that convert.
-    * Proficient **HTML/CSS** for pixel-perfect front-end scores.
-    * Developing **JavaScript** skills for richer, more interactive user experiences (UX).
+    * Developing resonant brand identities that truly sing.
+    * High-impact **ad creative** (video/photo) that captures attention.
+    * Compelling **copywriting** with lyrics that convert.
+    * Proficient **HTML/CSS** for pixel-perfect front-end scores.
+    * Developing **JavaScript** skills for richer, more interactive user experiences (UX).
 
 * **Operational & Financial Excellence (The Foundational Harmony):**
-    * Agile project management, keeping every movement on tempo.
-    * Strategic problem-solving with a maestro's inventive flair.
-    * Meticulous **budgeting & forecasting**, ensuring financial harmony.
-    * Skillful vendor management, orchestrating all external players.
-    * Effective **CRM strategy** to compose lasting customer relationships.
+    * Agile project management, keeping every movement on tempo.
+    * Strategic problem-solving with a maestro's inventive flair.
+    * Meticulous **budgeting & forecasting**, ensuring financial harmony.
+    * Skillful vendor management, orchestrating all external players.
+    * Effective **CRM strategy** to compose lasting customer relationships.
+
+---
+
+## 💡 Portfolio Highlights: My Compositions in Action
+
+Experience the strategies and execution that define my work.
+
+### 1. The "AlgoRhythm" Online Growth & Ad Strategy Portfolio
+* **The Composition:** This is my strategic deep dive, showcasing detailed ad campaign blueprints, e-commerce growth concertos, and financial modeling for conceptual enterprises (featuring the "Aura Elixirs" suite). It demonstrates my mastery of market research, strategic planning, persuasive ad copywriting, precise media planning, and resonant brand development.
+* **Explore the Arrangement:** [Full Ad Strategy Portfolio](https://brandys-algorythem.github.io/Online-Growth-Ad-Strategy-BrandyCornett-Portfolio/)
+* **View the Score (Codebase):** [Codebase on GitHub](https://github.com/brandys-algorythem/Online-Growth-Ad-Strategy-BrandyCornett-Portfolio)
+
+### 2. Foundational Web Development Projects (The Technical Preludes)
+* Demonstrating core **HTML & CSS** virtuosity in creating responsive, user-friendly web experiences that are both beautiful and functional.
+    * **Product Landing Page:** [Code](https://github.com/brandys-algorythem/fcc-responsive-landing-page) | [Live Demo](https://brandys-algorythem.github.io/fcc-responsive-landing-page/) *(Verify Link)*
+    * **Technical Documentation Page:** [Code](https://github.com/brandys-algorythem/fcc-responsive-tech-docs) | [Live Demo](https://brandys-algorythem.github.io/fcc-responsive-tech-docs/)
+    * *(More technical pieces like Survey Form, Tribute Page, etc., available in my GitHub repositories – my digital sheet music library!)*
+
+### 3. Conceptual Innovations (Future Symphonies - Design & Strategy Phase)
+* Always composing the next movement in innovation:
+    * **OmniNav:** An advanced indoor/outdoor 3D navigation app concept with real-time alerts & multilingual translation – navigating new soundscapes.
+    * **Ariya (Family Org App):** A conceptual app aimed at streamlining household schedules, chores, and meal planning – bringing harmony to home life.
+    * **Rowan (AI Digital Partner):** An AI concept for knowledge integration, creative aid, and personalized insights – your AI co-composer.
 
 ---
 
@@ -66,29 +89,6 @@ This venture was my signature composition, meticulously crafted from the first i
 * 🎉 **Encore Performance:** Successfully guided the venture to acquisition, validating its market value and the brilliance of its strategic execution.
 
 ➡️ ***For the Full Score & Granular Details: [Dive Into My Full Resume (PDF)](Resume 2.1.pdf)***
-
----
-
-## 💡 Portfolio Highlights: My Compositions in Action
-
-Experience the strategies and execution that define my work.
-
-### 1. The "AlgoRhythm" Online Growth & Ad Strategy Portfolio
-* **The Composition:** This is my strategic deep dive, showcasing detailed ad campaign blueprints, e-commerce growth concertos, and financial modeling for conceptual enterprises (featuring the "Aura Elixirs" suite). It demonstrates my mastery of market research, strategic planning, persuasive ad copywriting, precise media planning, and resonant brand development.
-* **Explore the Arrangement:** [Full Ad Strategy Portfolio](https://brandys-algorythem.github.io/Online-Growth-Ad-Strategy-BrandyCornett-Portfolio/)
-* **View the Score (Codebase):** [Codebase on GitHub](https://github.com/brandys-algorythem/Online-Growth-Ad-Strategy-BrandyCornett-Portfolio)
-
-### 2. Foundational Web Development Projects (The Technical Preludes)
-* Demonstrating core **HTML & CSS** virtuosity in creating responsive, user-friendly web experiences that are both beautiful and functional.
-    * **Product Landing Page:** [Code](https://github.com/brandys-algorythem/fcc-responsive-landing-page) | [Live Demo](https://brandys-algorythem.github.io/fcc-responsive-landing-page/) *(Verify Link)*
-    * **Technical Documentation Page:** [Code](https://github.com/brandys-algorythem/fcc-responsive-tech-docs) | [Live Demo](https://brandys-algorythem.github.io/fcc-responsive-tech-docs/)
-    * *(More technical pieces like Survey Form, Tribute Page, etc., available in my GitHub repositories – my digital sheet music library!)*
-
-### 3. Conceptual Innovations (Future Symphonies - Design & Strategy Phase)
-* Always composing the next movement in innovation:
-    * **OmniNav:** An advanced indoor/outdoor 3D navigation app concept with real-time alerts & multilingual translation – navigating new soundscapes.
-    * **Ariya (Family Org App):** A conceptual app aimed at streamlining household schedules, chores, and meal planning – bringing harmony to home life.
-    * **Rowan (AI Digital Partner):** An AI concept for knowledge integration, creative aid, and personalized insights – your AI co-composer.
 
 ---
 
